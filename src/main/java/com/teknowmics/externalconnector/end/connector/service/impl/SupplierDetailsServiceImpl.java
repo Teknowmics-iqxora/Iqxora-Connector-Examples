@@ -27,7 +27,7 @@ import org.springframework.stereotype.Service;
  * @author saikrishnan
  */
 @Service
-public class SupplierDetailsServiceImpl extends AbstractConnectorPluginServiceImpl implements ConnectorPluginService {
+public class SupplierDetailsServiceImpl extends AbstractConnectorPluginServiceImpl  {
 
     private static final Logger LOGGER = Logger.getLogger(SupplierDetailsServiceImpl.class);
 
