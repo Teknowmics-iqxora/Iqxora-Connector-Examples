@@ -4,6 +4,7 @@ In this Iqxora  example project demonstration how can make a connection to an ex
 
 
 **Process Flow**
+
 This External Database connector works using scheduler.
 
 It contains a SupplierDetailsServiceImpl which is extends a  _AbstractConnectorPluginServiceImpl_ class.
