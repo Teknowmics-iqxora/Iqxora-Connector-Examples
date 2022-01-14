@@ -1,6 +1,6 @@
 # Iqxora-Connector-Examples
 
-In this Iqxora  example project demonstration how can make a connection to an external database using  connector template. Here we used JDBC to connect an sql server.
+In this Iqxora  example project provide a way to make connection to an external database using  connector template. Here we used JDBC to connect an sql server.
 
 
 **Process Flow**
